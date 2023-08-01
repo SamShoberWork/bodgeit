@@ -53,7 +53,7 @@ jobs:
     # Checkmarx Project Name
  # Coverity configuration file.
 # The schema is available here: <install-dir>/doc/configuration-schema.json
-
+###
 # Specifies where the analysis results should be sent.
 commit:
 
