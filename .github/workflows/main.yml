@@ -55,7 +55,6 @@ jobs:
 # The schema is available here: <install-dir>/doc/configuration-schema.json
 ###
 # Specifies where the analysis results should be sent.
-commit:
 
   # Coverity Connect configuration to use when committing defects to Coverity
   # Connect.
